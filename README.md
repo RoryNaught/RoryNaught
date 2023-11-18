@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoryNaught
 - 👀 I’m interested in ...
-  - Machine lerning
+  - Machine learning
   - Embedded systems
 - 🌱 I’m currently learning ...
   - Java
