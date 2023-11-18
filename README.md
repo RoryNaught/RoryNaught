@@ -1,13 +1,17 @@
 - 👋 Hi, I’m @RoryNaught
 - 👀 I’m interested in ...
   - Machine learning
+  - Quant bots
   - Embedded systems
 - 🌱 I’m currently learning ...
   - Java
   - C#
-  - Datastructures
+  - SQL
+  - Data Structures
 - 💞️ I’m looking to collaborate on ...
+  - Trading bots 
 - 📫 How to reach me ...
+  - rory.naughton@icloud.com  
 
 <!---
 RoryNaught/RoryNaught is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
