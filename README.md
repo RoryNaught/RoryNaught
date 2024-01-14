@@ -5,11 +5,12 @@
   - Embedded systems
 - 🌱 I’m currently learning ...
   - Java
+  - Python
   - C#
   - SQL
   - Data Structures
 - 💞️ I’m looking to collaborate on ...
-  - Trading bots 
+  - Trading bots
 - 📫 How to reach me ...
   - rory.naughton@icloud.com  
 
