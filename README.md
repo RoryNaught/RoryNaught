@@ -3,14 +3,17 @@
   - Machine learning
   - Quant bots
   - Embedded systems
+  - Games
 - 🌱 I’m currently learning ...
   - Java
   - Python
   - C#
   - SQL
-  - Data Structures
+  - Machine Learning
 - 💞️ I’m looking to collaborate on ...
   - Trading bots
+  - Games
+  - WebApps
 - 📫 How to reach me ...
   - rory.naughton@icloud.com  
 
