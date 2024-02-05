@@ -1,19 +1,20 @@
 - 👋 Hi, I’m @RoryNaught
 - 👀 I’m interested in ...
   - Machine learning
-  - Quant bots
+  - Data Science
   - Embedded systems
   - Games
+ 
 - 🌱 I’m currently learning ...
   - Java
   - Python
   - C#
   - SQL
   - Machine Learning
+    
 - 💞️ I’m looking to collaborate on ...
-  - Trading bots
-  - Games
-  - WebApps
+  - See interests above ☝🏼☝🏼
+
 - 📫 How to reach me ...
   - rory.naughton@icloud.com  
 
