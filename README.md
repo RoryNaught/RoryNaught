@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @RoryNaught
 - 👀 I’m interested in ...
+  - Cyber Security 
   - Machine learning
-  - Data Science
   - Embedded systems
   - Games
  
 - 🌱 I’m currently learning ...
-  - Java
+  - C
+  - MIPS
   - Python
-  - C#
-  - SQL
-  - Machine Learning
+  - Java
+  - Cyber Security 
     
 - 💞️ I’m looking to collaborate on ...
   - See interests above ☝🏼☝🏼
