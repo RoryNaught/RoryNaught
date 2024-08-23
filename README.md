@@ -13,7 +13,8 @@
   - Java
   - Swift
   - Python
-  - Cyber Security
+  - Cyber Security Tools
+    - Kali Linux 
     
 
 - 📫 How to reach me ...
