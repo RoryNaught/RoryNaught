@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @RoryNaught
+  
 - 👀 I’m interested in ...
-  - Games
-  - Blockchain
-  - Cyber Security 
-  - Machine learning
   - Embedded systems
+  - Machine learning
+  - Cyber Security
+  - Blockchain
+  - Games
+ 
  
 - 🌱 I’m currently learning ...
   - C
