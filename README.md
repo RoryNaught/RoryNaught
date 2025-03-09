@@ -1,6 +1,12 @@
 <p align="center">
   <img src="./obiWanHelloThere.gif" width="400">
 </p>
+
+<div style="border:1px solid #ddd; padding: 15px; border-radius: 10px; width: 300px; text-align: center; margin: auto;">
+  <h3>Obi-Wan Kenobi</h3>
+  <p>Master of the High Ground</p>
+  <p><strong>"Hello there!"</strong></p>
+</div>
   
   ## I’m interested in ...
   - Embedded systems
