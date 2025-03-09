@@ -13,8 +13,8 @@
   - JavaScript
   - SupaBase
   - Vercel
-  - Swift
   - HTML
+  - Swift
   - CSS
 
   ## Technologies I have used ...
