@@ -1,15 +1,18 @@
-- 👋 Hi, I’m @RoryNaught
+###👋 Hi, I’m @RoryNaught
   
-- 👀 I’m interested in ...
-  - Embedded systems
+  ## I’m interested in ...
+  ---
   - Machine learning
+  - Embedded systems
+  - Web development
   - Cyber Security
   - Blockchain
   - Robotics
   - Games
  
  
-- 🌱 I’m currently learning ...
+  ## I’m currently learning ...
+  ---
   - C
   - Java
   - Swift
