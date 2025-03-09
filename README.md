@@ -4,7 +4,7 @@
 </p>
 
 <!-- Interests (Left-Aligned) -->
-<div style="text-align: left; padding: 10px;">
+<div style="text-align: left;">
   <h2> I’m interested in ... </h2>
   <ul>
     <li>Embedded systems</li>
@@ -18,7 +18,7 @@
 </div>
 
 <!-- Technologies Currently Using (Right-Aligned) -->
-<div style="text-align: right; padding: 10px;">
+<div style="text-align: right;">
   <h2>Technologies I'm currently using ...</h2>
   <ul>
     <li>JavaScript</li>
