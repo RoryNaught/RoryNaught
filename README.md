@@ -10,11 +10,19 @@
   - Games
  
  
-  ## I’m currently learning ...
+  ## I’m currently using ...
+  - Swift
+  - JavaScript
+  - HTML
+  - CSS
+  - SupaBase
+  - Vercel
+
+ ## I have used ...
   - C
   - Java
-  - Swift
   - Python
+  - MySql
   - Cyber Security Tools
     - Kali Linux 
     
