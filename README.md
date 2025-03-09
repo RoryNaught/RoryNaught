@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @RoryNaught
   
   ## I’m interested in ...
-  - Machine learning
   - Embedded systems
   - Web development
+  - Machine learning
   - Cyber Security
   - Blockchain
   - Robotics
