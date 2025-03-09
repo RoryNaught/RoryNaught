@@ -9,24 +9,27 @@
   - Robotics
   - Games
  
- 
-  ## I’m currently using ...
-  - Swift
+  ## Technologies im currently using ...
   - JavaScript
-  - HTML
-  - CSS
   - SupaBase
   - Vercel
+  - Swift
+  - HTML
+  - CSS
 
- ## I have used ...
+  ## Technologies I have used ...
   - C
   - Java
+  - MySQL
   - Python
-  - MySql
-  - Cyber Security Tools
-    - Kali Linux 
-    
+  - Cyber Sec Tools
+    - Kali Linux 🐉
+    - Burp Suite
+    - John The Ripper
+    - Cyberchef
+    - nmap
 
+    
 - 📫 How to reach me ...
   - rory.naughton@icloud.com  
 
