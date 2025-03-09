@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RoryNaught
+![Hello There](./ObiWanHelloThere.gif)
   
   ## I’m interested in ...
   - Embedded systems
