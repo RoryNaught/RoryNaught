@@ -1,4 +1,4 @@
-![Hello There](./ObiWanHelloThere.gif)
+![Hello There](./obiWanHelloThere.gif)
   
   ## I’m interested in ...
   - Embedded systems
