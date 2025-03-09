@@ -1,4 +1,6 @@
-![Hello There](./obiWanHelloThere.gif)
+<p align="center">
+  <img src="./obiWanHelloThere.gif" width="400">
+</p>
   
   ## I’m interested in ...
   - Embedded systems
