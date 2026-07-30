@@ -5,39 +5,28 @@
 
 ---
 
-## 🛠️ I’m interested in ...
-- Embedded systems
-- Web development
-- Machine learning
-- Cyber Security
-- Blockchain
-- Robotics
-- Games
+## 🧠 What I'm doing right now ...
+
+Giving my JavaScript fewer escape hatches: cold attempts, error notes, async, and Playwright. 
+Somehow side projects keep sneaking into production...
 
 ---
 
-## 🚀 Technologies I'm currently using ...
-- **JavaScript**
-- **Supabase**
-- **Vercel**
-- **HTML**
-- **Swift**
-- **CSS**
+## 🚀 Things I've built ...
+
+| | |
+|---|---|
+| <br>**[Keys of Wisdom](https://keysofwisdom.app)**<br><br>Gamified Scripture typing — learn passages by typing your way through them.<br><br> | <br>**[Quantum Chaos Wheel](REPO_URL_HERE)**<br><br>A decision wheel driven by a real quantum RNG, because pseudorandom felt like cheating.<br><br> |
 
 ---
 
-## 💾 Technologies I have used ...
-- **C**
-- **Java**
-- **MySQL**
-- **Python**
 
-### 🛡️ Cyber Security Tools:
-- Kali Linux 🐉
-- Burp Suite
-- John The Ripper
-- CyberChef
-- nmap
+## 🛠️ What I'm into ...
+
+**Web development** · **Cyber Security** · **Embedded systems**
+
+Currently writing JavaScript, Swift, and SQL against Supabase and Vercel. Previously C, Java, and Python.
+Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 
 ---
 
@@ -47,12 +36,6 @@
 </p>
 
 ---
-
-<!-- GitHub Footer -->
-<!---
-RoryNaught/RoryNaught is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!-- GitHub Footer -->
 <!---
