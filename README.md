@@ -58,6 +58,9 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 </div>
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=RoryNaught&color=blueviolet)
+
 <!-- GitHub Footer -->
 <!---
 RoryNaught/RoryNaught is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
