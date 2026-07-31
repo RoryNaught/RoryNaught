@@ -59,7 +59,7 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 
 ---
 
-<div align"right">
+<div align="right">
 ![Profile Views](https://komarev.com/ghpvc/?username=RoryNaught&color=blueviolet)
 </div>
 
