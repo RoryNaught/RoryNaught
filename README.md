@@ -56,8 +56,8 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 	![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
 </div>
----
 
+---
 <!-- GitHub Footer -->
 <!---
 RoryNaught/RoryNaught is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
