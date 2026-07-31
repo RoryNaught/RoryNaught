@@ -19,6 +19,12 @@ Somehow side projects keep sneaking into production...
 | <br>**[Keys of Wisdom](https://keysofwisdom.app)**<br><br>Gamified Scripture typing — learn passages by typing your way through them.<br><br> | <br>**[Quantum Chaos Wheel](REPO_URL_HERE)**<br><br>A decision wheel driven by a real quantum RNG, because pseudorandom felt like cheating.<br><br> |
 
 ---
+### 🛠️ Tools of the trade ...
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
 
 
 ## 🛠️ What I'm into ...
