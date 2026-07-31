@@ -49,6 +49,14 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 </p>
 
 ---
+## Recomended learning resources
+<div align="center">
+
+<a href="https://scrimba.com/?via=u412caba" target=""_blank>![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)<a>
+	![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+
+</div>
+---
 
 <!-- GitHub Footer -->
 <!---
