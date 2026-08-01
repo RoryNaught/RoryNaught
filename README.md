@@ -49,15 +49,23 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 </p>
 
 ---
-## Recomended learning resources
-<div align="center">
+## Recommended Learning Resources
 
-<a href="https://scrimba.com/?via=u412caba" target="_blank">![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)<a>
-	![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-	
-[![MIT Missing Semester](https://img.shields.io/badge/MIT-Missing_Semester-A31F34?style=for-the-badge)](https://missing.csail.mit.edu/)
+> [!TIP]
+> **Web**
+> 
+> [![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)](https://scrimba.com/?via=u412caba)
+> [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 
-</div>
+> [!NOTE]
+> **CS**
+> 
+> [![MIT Missing Semester](https://img.shields.io/badge/MIT-Missing_Semester-A31F34?style=for-the-badge)](https://missing.csail.mit.edu/)
+
+> [!CAUTION]
+> **SEC**
+> 
+> [![pwn.college](https://img.shields.io/badge/pwn.college-141d2b?style=for-the-badge)](https://pwn.college/)
 
 ---
 
