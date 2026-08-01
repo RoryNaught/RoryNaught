@@ -49,23 +49,22 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 </p>
 
 ---
+
 ## Recommended Learning Resources
 
-> [!TIP]
-> **Web**
-> 
-> [![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)](https://scrimba.com/?via=u412caba)
-> [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
+<div align="center">
 
-> [!NOTE]
-> **CS**
-> 
-> [![MIT Missing Semester](https://img.shields.io/badge/MIT-Missing_Semester-A31F34?style=for-the-badge)](https://missing.csail.mit.edu/)
+### 🌐 Web
+[![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)](https://scrimba.com/?via=u412caba)
+[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 
-> [!CAUTION]
-> **SEC**
-> 
-> [![pwn.college](https://img.shields.io/badge/pwn.college-141d2b?style=for-the-badge)](https://pwn.college/)
+### 💻 CS
+[![MIT Missing Semester](https://img.shields.io/badge/MIT-Missing_Semester-A31F34?style=for-the-badge)](https://missing.csail.mit.edu/)
+
+### 🔐 SEC
+[![pwn.college](https://img.shields.io/badge/pwn.college-141d2b?style=for-the-badge)](https://pwn.college/)
+
+</div>
 
 ---
 
