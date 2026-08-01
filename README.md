@@ -55,7 +55,7 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 <a href="https://scrimba.com/?via=u412caba" target="_blank">![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)<a>
 	![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 	
-<button href="https://missing.csail.mit.edu/">The missing CS Semester?</button>
+[![MIT Missing Semester](https://img.shields.io/badge/MIT-Missing_Semester-A31F34?style=for-the-badge)](https://missing.csail.mit.edu/)
 
 </div>
 
