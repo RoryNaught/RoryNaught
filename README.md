@@ -59,7 +59,7 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 
 <a href="https://app.codecrafters.io/">
-  <img src="https://app.codecrafters.io/assets/23c5199ce34638047eb8.svg" alt="CodeCrafters" width="200">
+  <img src="https://app.codecrafters.io/assets/23c5199ce34638047eb8.svg" alt="CodeCrafters" width="150">
 </a>
 
 ### 💻 CS
