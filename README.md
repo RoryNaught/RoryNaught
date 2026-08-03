@@ -57,7 +57,10 @@ Security side: Kali, Burp Suite, nmap, CyberChef, John the Ripper.
 ### 🌐 Web
 [![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)](https://scrimba.com/?via=u412caba)
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
-[![CodeCrafters](https://app.codecrafters.io/assets/23c5199ce34638047eb8.svg)](https://app.codecrafters.io/)
+
+<a href="https://app.codecrafters.io/">
+  <img src="https://app.codecrafters.io/assets/23c5199ce34638047eb8.svg" alt="CodeCrafters" width="200">
+</a>
 
 ### 💻 CS
 [![MIT Missing Semester](https://img.shields.io/badge/MIT-Missing_Semester-A31F34?style=for-the-badge)](https://missing.csail.mit.edu/)
