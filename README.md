@@ -14,9 +14,10 @@ Somehow side projects keep sneaking into production...
 
 ## 🚀 Things I've built ...
 
-| | |
-|---|---|
-| <br>**[Keys of Wisdom](https://keysofwisdom.app)**<br><br>Gamified Scripture typing — learn passages by typing your way through them.<br><br> | <br>**[Quantum Chaos Wheel](REPO_URL_HERE)**<br><br>A decision wheel driven by a real quantum RNG, because pseudorandom felt like cheating.<br><br> |
+| | | |
+|---|---|---|
+| <br>**[Keys of Wisdom](https://keysofwisdom.app)**<br><br>Gamified Scripture typing — learn passages by typing your way through them.<br><br> | <br>**[Quantum Chaos Wheel](https://quantumchaoswheel.terraformlabs.dev/)**<br><br>A decision wheel driven by a real quantum RNG, because pseudorandom felt like cheating.<br><br> | <br>**[Open Market Charts](https://github.com/RoryNaught/open-market-charts)**<br><br>An open-source trading workspace — live charts, advanced indicators, and drawing tools. Bring your own data feed.<br><br> |
+
 
 ---
 <div align="center">
